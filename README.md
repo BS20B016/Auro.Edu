@@ -1,6 +1,6 @@
 Installation: Go to your desired folder.
 
-Run the command: git clone https://github.com/amitkumariitmadras/ghanshyam-interview.git
+Run the command: git clone https://github.com/BS20B016/Auro.Edu.git
 
 Go to the directory with requirements.txt.
 
